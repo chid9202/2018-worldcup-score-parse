@@ -1,5 +1,7 @@
 # 2018-worldcup-score-parse
-Python codes to parse 2018 worldcup score
+Python codes to parse 2018 worldcup score  
+Look for **goup_phase.py** and **knockout_phase.py**
+
 ***
 ### Parse URL
 Group phase: http://www.fifa.com/worldcup/groups/  
